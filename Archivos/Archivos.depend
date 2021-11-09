@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635997806 source:e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"../Comun/defs.h"
+	"../Fechas/fecha.h"
+
+1634821335 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\comun\defs.h
+
+1635647416 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\fechas\fecha.h
+	"../Comun/Defs.h"
+

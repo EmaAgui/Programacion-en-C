@@ -1,0 +1,16 @@
+arandano                      Arandano                                                                                            120420210070.000060
+banana                        Banana                                                                                              020920210160.000150
+kiwi                          Kiwi                                                                                                080220210200.000030
+mango                         Mango                                                                                               050720210105.000080
+manz                          Manzana                                                                                             050520210080.000150
+naran                         Naranja                                                                                             050320210055.000120
+pera                          Pera                                                                                                010920210060.000200
+manz                          Manzana                                                                                             020220210080.000150
+naran                         Naranja                                                                                             030520210050.000090
+pome                          Pomelo                                                                                              070820210140.000020
+sandia                        Sandia                                                                                              040320210100.000080
+uva                           Uva                                                                                                 050120210130.000089
+banana                        Banana                                                                                              060820210160.000150
+kiwi                          Kiwi                                                                                                070720210200.000030
+pome                          Pomelo                                                                                              080920210140.000020
+zana                          Zanahoria                                                                                           070920210085.000050
