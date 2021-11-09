@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1636396423 source:e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\tdapilasumar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDAPila/TDAPila.h"
+
+1636396424 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\tdapila\tdapila.h
+	<stddef.h>
+	"../Comun/Defs.h"
+	"../TDAPilaImplEstatica/TDAPilaImplEstatica.h"
+	"../TDAPilaImplDinamica/TDAPilaImplDinamica.h"
+
+1636254467 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\comun\defs.h
+
+1636387982 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\tdapilaimplestatica\tdapilaimplestatica.h
+
+1636396426 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\tdapilaimpldinamica\tdapilaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1636387984 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\nodo\nodo.h
+	<stddef.h>
+

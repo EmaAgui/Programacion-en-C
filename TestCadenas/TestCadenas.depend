@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632140444 source:e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\testcadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Cadenas/Cadenas.h"
+
+1632139762 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\cadenas\cadenas.h
+	<stdio.h>
+	"../Comun/Defs.h"
+
+1629723746 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\comun\defs.h
+

@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1584205420 source:e:\unlam\programacion-tcp\2do _cuatri\proyecto_codeblocks\fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1629725610 source:e:\unlam\programacion_tcp\2do _cuatri\proyecto_codeblocks\fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fecha.h"
+
+1629726466 source:e:\unlam\programacion_tcp\2do _cuatri\proyecto_codeblocks\fechas\fecha.c
+	"../Comun/Defs.h"
+	"Fecha.h"
+
+1629728033 e:\unlam\programacion_tcp\2do _cuatri\proyecto_codeblocks\fechas\fecha.h
+	"../Comun/Defs.h"
+
+1629723746 e:\unlam\programacion_tcp\2do _cuatri\proyecto_codeblocks\comun\defs.h
+
+1629723746 source:e:\unlam\programacion_tcp\2do _cuatri\proyecto_codeblocks\comun\defs.h
+
+1629723251 source:e:\unlam\programacion_tcp\2do _cuatri\proyecto_codeblocks\fechas\fecha.h
+	"../Comun/Defs.h"
+
+1629985508 source:e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\fechas\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"../Comun/Defs.h"
+	"Fecha.h"
+
+1632744558 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\comun\defs.h
+
+1629984987 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\fechas\fecha.h
+	"../Comun/Defs.h"
+
+1629985149 source:e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Fecha.h"
+

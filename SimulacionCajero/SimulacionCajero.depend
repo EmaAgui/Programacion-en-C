@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1636471574 source:e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\simulacioncajero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"../TDACola/TDACola.h"
+
+1636465978 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\tdacola\tdacola.h
+	"../TDAColaImpEstatica/TDAColaImpEstatica.h"
+	"../TDAColaImplDinamica/TDAColaImplDinamica.h"
+	"../Comun/Defs.h"
+
+1636460253 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\tdacolaimpestatica\tdacolaimpestatica.h
+	<stddef.h>
+
+1636465397 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\tdacolaimpldinamica\tdacolaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1636465396 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\nodo\nodo.h
+	<stddef.h>
+
+1636254467 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\comun\defs.h
+

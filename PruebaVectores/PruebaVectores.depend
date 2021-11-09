@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632404158 source:e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\pruebavectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<locale.h>
+	"../Vectores/Vectores.h"
+
+1632401483 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\vectores\vectores.h
+	"../Comun/Defs.h"
+
+1629723746 e:\unlam\programaciontcp\2docuatri\proyectocodeblocks\comun\defs.h
+
